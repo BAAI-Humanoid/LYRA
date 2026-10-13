@@ -11,7 +11,7 @@ Official implementation of **LYRA**: A **L**ifelong learning code s**Y**nthesis 
 #### [[Project Website]](https://baai-humanoid.github.io/LYRA/) [[Paper]](https://arxiv.org/abs/2509.18597) [[Supplementary Material]](docs/LYRA-Supplementary.pdf)
 
 
-<p><a href="https://github.com/Ghiara">Yuan Meng</a><sup>1,&#42;</sup>, <a href="https://github.com/zhenshan-bing">Zhenguo Sun</a><sup>1,2,3,&#42;,&dagger;</sup>, Max Fest<sup>1</sup>, Xiangtong Yao<sup>1</sup>, Xukun Li<sup>1,2,3</sup>,<br>
+<p><a href="https://github.com/Ghiara">Yuan Meng</a><sup>1,&#42;</sup>, <a href="https://github.com/hitsunzhenguo">Zhenguo Sun</a><sup>1,2,3,&#42;,&dagger;</sup>, Max Fest<sup>1</sup>, Xiangtong Yao<sup>1</sup>, Xukun Li<sup>1,2,3</sup>,<br>
 Zhenshan Bing<sup>4,&#35;</sup>, and <a href="https://www.ce.cit.tum.de/air/people/prof-dr-ing-habil-alois-knoll/">Alois Knoll</a><sup>1</sup>.</p>
 
 </div>
