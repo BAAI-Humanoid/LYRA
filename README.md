@@ -8,7 +8,7 @@
 
 Official implementation of **LYRA**: A **L**ifelong learning code s**Y**nthesis framework with human-in-the-loop for **R**obotic long-horizon skill **A**cquisition
 
-#### [[Project Website]](https://ghiara.github.io/LYRA/) [[Paper]](https://arxiv.org/abs/2509.18597) [[Supplementary Material]](docs/LYRA-Supplementary.pdf)
+#### [[Project Website]](https://baai-humanoid.github.io/LYRA/) [[Paper]](https://arxiv.org/abs/2509.18597) [[Supplementary Material]](docs/LYRA-Supplementary.pdf)
 
 
 <p><a href="https://github.com/Ghiara">Yuan Meng</a><sup>1,&#42;</sup>, <a href="https://github.com/zhenshan-bing">Zhenguo Sun</a><sup>1,2,3,&#42;,&dagger;</sup>, Max Fest<sup>1</sup>, Xiangtong Yao<sup>1</sup>, Xukun Li<sup>1,2,3</sup>,<br>
